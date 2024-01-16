@@ -1,0 +1,135 @@
+.testata {
+	position: fixed;
+    top: 0;
+    width: 100%;
+    height: 10%;
+	min-height: 10%;
+	max-height: 10%;
+}
+
+.corpo {
+	background-color: #D6ECEE;
+	position: fixed;
+	top: 10%;
+	left: 1%;
+	width: 98%;
+	height: 74%;
+}
+
+.piedipagina {
+	background-color: #085055;
+	position: fixed;
+    bottom: 0;
+    width: 100%;
+    height: 15%;
+	min-height: 15%;
+	max-height: 15%;
+}
+
+.logo{
+	height: 85%;
+	width: 85%:
+}
+
+.menu{
+	position: absolute;
+	top: 5%;
+	right: 5%;
+}
+
+.menu-entry{
+	font-family: Arial;
+	text-decoration: none;
+	color: black;
+}
+
+.menu-entry:hover{
+	font-weight: bold;
+	text-decoration: none;
+	color: black;
+}
+
+.menu-bot{
+	position: absolute;
+	bottom: 0.5%;
+	right: 3%;
+}
+
+.menu-bot-entry{
+	font-family: Arial;
+	text-decoration: none;
+	color: white;
+}
+
+.menu-bot-entry:hover{
+	font-weight: bold;
+	text-decoration: none;
+	color: white;
+}
+
+.menu-social{
+	position: absolute;
+	bottom: 35%;
+	right: 5%;
+}
+
+.copyright{
+	position: fixed;
+	bottom: 1%;
+	left: 2%;
+	color: white;
+	font-family: Arial;
+}
+
+.follow{
+	position: fixed;
+	bottom: 10%;
+	right: 7%;
+	color: white;
+	font-family: Arial;
+}
+
+.titolo{
+	position: relative;
+	top: 3%;
+	left: 40%;
+	font-size: 40px;
+	font-family: Arial;
+	font-weight: bold;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.menu-pic-entry{
+	font-family: Arial;
+	text-decoration: none;
+	color: black;
+}
+
+.menu-pic-entry:hover{
+	font-weight: bold;
+	text-decoration: none;
+	color: black;
+}
+
+.artist-name{
+	position: relative;
+	top: 3%;
+	left: 3%;
+	font-size: 30px;
+	font-family: Arial;
+	font-weight: bold;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.artist-details{
+	position: relative;
+	top: 3%;
+	width: 90%;
+	font-size: 11px;
+	font-family: Arial;
+	font-weight: bold;
+	margin-left: auto;
+	margin-right: auto;
+}
